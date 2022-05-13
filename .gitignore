@@ -19,6 +19,20 @@ docs_build
 venv
 docs.zip
 archive.zip
+*#*
+.DS*
+*.pyc
+*.pyd
+build/
+dist/
+motor.egg-info/
+setup.cfg
+*.egg
+.tox
+doc/_build/
+.idea/
+xunit-results
+.eggs
 
 # vim temporary files
 *~
