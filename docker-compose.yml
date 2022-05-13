@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: ./events_api/Dockerfile
     ports:
-      - "8000:8000"
+      - "8010:8010"
   files_api:
     build:
       context: .
