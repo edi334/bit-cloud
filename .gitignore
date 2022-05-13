@@ -33,6 +33,7 @@ doc/_build/
 .idea/
 xunit-results
 .eggs
+mongo_data/
 
 # vim temporary files
 *~
